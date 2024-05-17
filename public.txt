@@ -1,3 +1,11 @@
+github account
+daborey@gmail.com
+password: G condition 0
+
+protonmail account
+daborey@protonmail.com
+password: condition 0
+
 zoho note account
 daborey@gmail.com
 password:Z condition 0
