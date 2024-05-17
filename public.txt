@@ -1,3 +1,11 @@
+zoho note account
+daborey@gmail.com
+password:Z condition 0
+
+gmail account
+daborey@gmail.com
+password: G condition 2
+
 2 steps of accounts
 
 facebook daborey@gmail.com 2 step code
