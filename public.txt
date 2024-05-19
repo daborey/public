@@ -1,3 +1,13 @@
+yandex mail account
+daborey@yandex.com
+password: Y condition 1
+
+microsoft mail or hotmail 
+daborey@hotmail.com
+password: M codition 3
+daborey@outlook.com
+password: M condition 0
+
 https://iact.ie/ account
 daborey@gmail.com
 password: condition 0
