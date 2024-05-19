@@ -2,6 +2,10 @@ gmail account
 zerodayman@gmail.com
 password: condition 0
 
+gmail account (have ld. video)
+borey.human@gmail.com
+password: G condition 0
+
 https://rutracker.org/ account
 daborey
 password: condition 0
