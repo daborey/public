@@ -1,3 +1,7 @@
+gmail account
+zerodayman@gmail.com
+password: condition 0
+
 https://rutracker.org/ account
 daborey
 password: condition 0
