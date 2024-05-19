@@ -1,3 +1,11 @@
+https://rutracker.org/ account
+daborey
+password: condition 0
+
+https://glodls.to/ account
+daborey
+password: condition 0
+
 yandex mail account
 daborey@yandex.com
 password: Y condition 1
