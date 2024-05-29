@@ -1,6 +1,7 @@
 download all windows version iso
 https://massgrave.dev/
 https://files.rg-adguard.net/ auth key: FreeTrial
+https://www.deskmodder.de/blog/
 
 active all windows version active window 10/11
 https://github.com/massgravel/Microsoft-Activation-Scripts
