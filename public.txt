@@ -1,5 +1,12 @@
 play video in google drive
 https://bytesbin.com/play-google-drive-video-in-vlc/
+https://www.googleapis.com/drive/v3/files/file-ID?alt=media&key=APIKey
+
+fileid is the id get from video share link
+apikey is getting from google console
+
+apikey: AIzaSyAQN-djXJ4PbFtHWgnni9U2qpgc6oMtWtI
+
 
 deal the next web
 - windscribe
