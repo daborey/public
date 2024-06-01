@@ -1,3 +1,9 @@
+quick go to home directory command
+
+You can use cd /d %USERPROFILE% if you use cmd.
+or you can use cd ~ if you use PowerShell.
+
+
 play video in google drive
 https://bytesbin.com/play-google-drive-video-in-vlc/
 https://www.googleapis.com/drive/v3/files/file-ID?alt=media&key=APIKey
