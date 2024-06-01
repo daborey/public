@@ -1,5 +1,6 @@
 quick go to home directory command
 
+https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/
 You can use cd /d %USERPROFILE% if you use cmd.
 or you can use cd ~ if you use PowerShell.
 
